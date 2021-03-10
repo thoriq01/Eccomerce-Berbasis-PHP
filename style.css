@@ -1,0 +1,83 @@
+.header-top{
+    background-color: rgba(20, 69, 161, 0.911);
+}
+.header-second{
+    background-color: rgb(27, 133, 194);
+}
+.card-1{
+    background-color: rgba(20, 69, 161, 0.911);
+}
+.card-produk{
+    box-shadow: 0px 1px 2px 0px gray;
+    border-radius: 20px;
+}
+.card-3{
+    box-shadow: 1px 2px 4px 0px gray;
+}
+.top-top img{
+    width:100%  
+}
+.top-1{
+    height: 120px;
+    background-size: cover;
+    border: none;
+    outline: none;
+    
+}.text-kecil{font-size:14px;color: rgb(85, 83, 83);}
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+.middle-r{
+    font-size: 14px;
+}
+.img{
+    width: 100%;
+}
+.card-height{ 
+    text-align: center;
+    height: 20px;
+}
+.middle-r{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 12px;
+}
+.btn-card{
+    background-color: rgb(216, 99, 45);
+    color: white;
+    border-top-left-radius:0;
+    border-top-right-radius:0;
+    margin-top: -20px;
+}
+.btn-card:hover{
+    opacity: 0.9;
+}
+.word-spacing {
+    word-spacing: -5px;
+    font-size: 14px;
+}
+.checked{
+    font-size: 9px;
+    color: rgba(214, 226, 41, 0.918);  
+}
+.checked-fill{
+    color: rgba(214, 226, 41, 0.918);
+    font-size: 9px;
+}
+.checked-fill::after{
+    color: rgba(255, 255, 255, 0.842);
+    font-size: 12px;
+}
+.t-s{
+    font-size: 9px;
+}
+.nice{
+    box-shadow: 0px 2px 10px 0px gray;
+    border-radius: 10px;
+
+}
+.card-2{
+    box-shadow: 1px 2px 2px 0px gray;
+    border-radius: 10px;
+    height: 300px;
+}
